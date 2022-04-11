@@ -1,0 +1,7 @@
+The Terminal is an interface that allows access to the command lin. It allows us
+ to edit,close and open folders and files. It is terrible and that is why GUI's
+are important. Github is a software platform that coders use to store read and e
+dit there code. In my words git is an extension of github added onto the termina
+l of a computer to receive and send changes or edits in a project. We use github
+ because rocks. It allows us to work together in a project from different areas
+in the world.
